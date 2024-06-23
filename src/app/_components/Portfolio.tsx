@@ -2,7 +2,6 @@ import React from "react";
 import Card from "./common/Card";
 
 type Props = {};
-
 const Portfolio = (props: Props) => {
   return (
     <Card title="Portfolio">
@@ -10,7 +9,6 @@ const Portfolio = (props: Props) => {
         <ul className="list-inside list-disc">
           <li>
             <a
-              href="https://github.com/golang/go"
               target="_blank"
               rel="noopener noreferrer"
               className="text-blue-500"

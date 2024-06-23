@@ -4,18 +4,11 @@ import Card from "./common/Card";
 type Props = {};
 
 const Bio = (props: Props) => {
+  
   return (
     <Card title="Bio">
       <div>
-        Lorem Ipsum is simply dummy text of the printing and typesetting
-        industry. Lorem Ipsum has been the industry's standard dummy text ever
-        since the 1500s, when an unknown printer took a galley of type and
-        scrambled it to make a type specimen book. It has survived not only five
-        centuries, but also the leap into electronic typesetting, remaining
-        essentially unchanged. It was popularised in the 1960s with the release
-        of Letraset sheets containing Lorem Ipsum passages, and more recently
-        with desktop publishing software like Aldus PageMaker including versions
-        of Lorem Ipsum.
+      I am actively seeking a summer internship to apply the diverse skills and knowledge I have accumulated throughout my studies in computer engineering in a real-world setting. My education has provided me with a solid foundation in theoretical and practical aspects, and I am eager to leverage these to support a progressive and innovative team. I thrive in environments where I can continuously learn and grow, and I am particularly interested in opportunities that allow me to collaborate with others to achieve common goals. Additionally, my involvement in various extracurricular activities has enhanced my time management, leadership, and creative thinking skills. I am confident that my enthusiasm, dedication, and adaptability will make me a valuable asset to your team, and I am excited to contribute to your organization’s success while gaining invaluable experience to shape my future career.
       </div>
     </Card>
   );

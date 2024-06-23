@@ -14,7 +14,7 @@ const Personality = (props: Props) => {
           experience something new.
         </p>
         <div className="flex gap-1">
-          <Badge>INTROVERTED</Badge>
+          <Badge>ENTP</Badge>
           <Badge>OBSERVANT</Badge>
           <Badge>FEELING</Badge>
           <Badge>PROSPECTING</Badge>
